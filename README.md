@@ -64,7 +64,7 @@ Now you can choose amongst several different actions. You can end you turn at an
 
 #### Recruiting
 <img style="float:left" src="Bildquellen/Symbole/Kosten.png" alt="Cost symbol"/>
-You may recruit units if you have the necessary positive gold ammount:
+You may recruit units if your king stands on any keep field and you have the necessary positive gold ammount:
 
 * Subtract the gold ammount and update your gold marker
 * You can choose a new unit from the pool
