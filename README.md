@@ -6,7 +6,7 @@ The Battle for Wesnoth is an open source, turn-based strategy game with a high f
 
 Recruit your army, conquer villages for income on the hextiled map and let your units fight! Place your units strategically on terrain providing good defence.
 
-We tried to keep it simple and to the core gameplay, so it will actally be fun without tracking all the stats. The only thing to track is your gold and each units hitpoints.
+We tried to keep it simple and to the core gameplay, so it will actally be fun without tracking all the stats. The only thing to track is your gold and each units hitpoints using simple clips and markers.
 
 ![Time to battle](Bildquellen/playing.jpg)
 
@@ -19,7 +19,7 @@ We tried to keep it simple and to the core gameplay, so it will actally be fun w
   + `Einheiten-v.svg`: back side of units
   + `Kartenteile-1.svg`: A set of tiles. The castles are supposed to be one big tile.
   + `Kartenteile-2.svg`: even more tiles!
-  + `Spielertafel.svg`: table for players showing all unit stats and also a panel to track gold.
+  + `Spielertafel.svg`: table for players showing all unit stats and also a panel to track gold (there is also a english version).
   + Especially for the hex tiles it is good if the cardboard is a little thicker.
   + The units have some white space below them. You can either place them into plastic slots or cut the white in the middle and glue it down to a piece of cardboard.
 * Get a *ten sided dice* marked 0-9 (either an online dice or buy a physically one).
@@ -77,8 +77,13 @@ Freshly recruited units have zero movepoints; you can move them only in your nex
 <img style="float:left" src="Bildquellen/Symbole/Fuss.png" alt="Movepoint symbol"/>
 Units can move freely across the battlefield. Each unit has a fixed ammount of *move points*. To enter the next hex field, a unit has to "pay" with these movepoints. The "cost" is depending on the terrain type and the unit in question.
 
-*** Zone of control ***  
+***Zone of control***  
 Each unit has a *zone of control* around it. If your unit enters the hex field adjacent to an enemy unit, it looses all emaining movepoints for the current turn. This allows units to block off access to areas on the battlefield and even to capture enemy units so they can't flee. Employing *zone of control* can be a significant factor in winning a game.
+
+***Conquering villages***
+To conquer a village you just simply move a unit onto it. Place your marker on it so it's visible that it now belongs to you.  
+The conquering unit looses all remining movepoints for the current turn when taking a village.  
+At the next round the village will provide gold to your side, at least if it still belogs to you.
 
 #### Attacking
 <img style="float:left" src="Bildquellen/Symbole/melee_attack.png" alt="melee attack symbol"/> <img style="float:left" src="Bildquellen/Symbole/ranged_attack.png" alt="ranged attack symbol"/>
