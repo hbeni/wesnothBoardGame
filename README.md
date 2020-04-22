@@ -8,7 +8,7 @@ Recruit your army, conquer villages for income on the hextiled map and let your 
 
 We tried to keep it simple and to the core gameplay, so it will actally be fun without tracking all the stats. The only thing to track is your gold and each units hitpoints.
 
-![Time to battle](TODO: URL from picture of battlefield)
+![Time to battle](Bildquellen/playing.jpg)
 
 
 -----------------------------------------------
