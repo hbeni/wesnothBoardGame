@@ -64,7 +64,7 @@ Now you can choose amongst several different actions. You can end you turn at an
 
 #### Recruiting
 <img style="float:left" src="Bildquellen/Symbole/Kosten.png" alt="Cost symbol"/>
-You may recruit units if your king stands on any keep field and you have the necessary positive gold ammount:
+You may recruit units if your king stands on any keep (not cstle!) field and you have the necessary positive gold ammount:
 
 * Subtract the gold ammount and update your gold marker
 * You can choose a new unit from the pool
@@ -80,8 +80,8 @@ Units can move freely across the battlefield. Each unit has a fixed ammount of *
 ***Zone of control***  
 Each unit has a *zone of control* around it. If your unit enters the hex field adjacent to an enemy unit, it looses all emaining movepoints for the current turn. This allows units to block off access to areas on the battlefield and even to capture enemy units so they can't flee. Employing *zone of control* can be a significant factor in winning a game.
 
-***Conquering villages***
-To conquer a village you just simply move a unit onto it. Place your marker on it so it's visible that it now belongs to you.  
+***Conquering villages***  
+To conquer an empty village you just simply move a unit onto it. Place your marker on it so it's visible that it now belongs to you.  
 The conquering unit looses all remining movepoints for the current turn when taking a village.  
 At the next round the village will provide gold to your side, at least if it still belogs to you.
 
