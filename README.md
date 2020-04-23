@@ -1,7 +1,7 @@
 The Battle for Wesnoth - Board Game
 ===================================
 
-<img style="float:left" src="Bildquellen/Symbole/icon-game.png" alt="Wesnoth logo"/>
+![Wesnoth logo](Bildquellen/logo-large.png)  
 The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. Originally a complex computer game, this project is an attempt to make it available as a classical board game.
 
 Recruit your army, conquer villages for income on the hextiled map and let your units fight! Place your units strategically on terrain providing good defence.
