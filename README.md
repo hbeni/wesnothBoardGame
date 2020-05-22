@@ -17,18 +17,20 @@ We tried to keep it simple and to the core gameplay, so it will actually be fun 
 * Print out the source material (either on thick paper or glue it to cardboard afterwards):
   + `Einheiten-r.svg`: front side of units
   + `Einheiten-v.svg`: back side of units
-  + `Kartenteile-1.svg`: A set of tiles. The castles are supposed to be one big tile.
-  + `Kartenteile-2.svg`: even more tiles!
   + `Spielertafel.svg`: table for players showing all unit stats and also a panel to track gold (there is also an english version available).
-  + Especially for the hex tiles it is good if the cardboard is a little thicker.
   + The units have some white space below them. You can either place them into plastic slots or cut the white in the middle and glue it down to a piece of cardboard.
+  + Map to play on:
+    - You can find predefined maps below the `maps/` folder, and/or use custom tiles:
+    - `Kartenteile-1.svg`: A set of tiles. The castles are supposed to be one big tile.
+    - `Kartenteile-2.svg`: even more tiles!
+    - Especially for the hex tiles it is good if the cardboard is a little thicker.
 * Get a *ten sided dice* marked 0-9 (either an online dice or buy a physically one).
-* Get some small markers in players colours
+* Get some small markers in players colours (i use thread pearls, but strips of paper will do also)
   + one for the gold panel
   + several to mark conquered villages
 * Get some paper-clips:
   + in players colour to mark units side and track units hitpoints
-  + one other colored paper-clip per player to mark the king unit
+  + one other colored paper-clip (or attached paper stripe etc.) per player to mark the king unit.
 
 
 ## Playing the game
@@ -38,7 +40,7 @@ The game is won immediately when you finish the enemy king, or lost if your king
 
 ### Setup a new game
 #### Building a good map
-You first need a map to play on. The map is built from the hex tiles. Look at them closely, there is only one position they link nicely (horizontally edges north and south, points west and east); refer to the village or castle tiles where this can be seen best.
+You first need a map to play on. Either use a predefined map or build one yourself. The map is built from the hex tiles. You can of course also alter a predefined map with custom map tiles. Look at them closely, there is only one position they link nicely (horizontally edges north and south, points west and east); refer to the village or castle tiles where this can be seen best.
 
 A good map is balanced and does not favor a specific side. It should have some areas which are easy to defend and others easy to conquer. Make a fair ammount of villages and place them so, that the movepoints to conquer them are the same for both players. When placing villages, make some hexes with good defense values (woodland) around. It's okay to also have water adjacent, but avoid bunkers that are not attackable anymore.  
 
@@ -69,7 +71,7 @@ Now you can choose amongst several different actions. You can end your turn at a
 * Pick a paper-clip in your colour and mark the units full-hitpoints position
 * Place the unit at your chosen castle hex
 
-Freshly recruited units have zero movepoints; you can move them only in your next turn.
+Freshly recruited units have zero movepoints; you can neither attack or move them before your next turn.
 
 #### Moving units
 ![Movepoint symbol](Bildquellen/Symbole/Fuss.png)Units can move freely across the battlefield. Each unit has a fixed ammount of *move points*. To enter the next hex field, a unit has to "pay" with these movepoints. The "cost" is depending on the terrain type and the unit in question.
