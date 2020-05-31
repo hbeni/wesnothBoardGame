@@ -74,7 +74,8 @@ Now you can choose amongst several different actions. You can end your turn at a
 Freshly recruited units have zero movepoints; you can neither attack or move them before your next turn.
 
 #### Moving units
-![Movepoint symbol](Bildquellen/Symbole/Fuss.png)Units can move freely across the battlefield. Each unit has a fixed ammount of *move points*. To enter the next hex field, a unit has to "pay" with these movepoints. The "cost" is depending on the terrain type and the unit in question.
+![Movepoint symbol](Bildquellen/Symbole/Fuss.png)Units can move freely across the battlefield. Each unit has a fixed ammount of *move points*. To enter the next hex field, a unit has to "pay" with these movepoints. The "cost" is depending on the terrain type and the unit in question.  
+Units can pass trough friendly units when moving but cannot hold on an already occupied field.
 
 ***Zone of control***  
 Each unit has a *zone of control* around it. If your unit enters the hex field adjacent to an enemy unit, it looses all emaining movepoints for the current turn. This allows units to block off access to areas on the battlefield and even to capture enemy units so they can't flee. Employing *zone of control* can be a significant factor in winning a game.
