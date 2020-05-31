@@ -64,12 +64,12 @@ You get 2 Gold per held village. Subtract the count of your normal units (the ki
 Now you can choose amongst several different actions. You can end your turn at any point, including a complete pass if you feel everything is still fine. Once you are done, announce it to your opponent.
 
 #### Recruiting
-![Cost symbol](Bildquellen/Symbole/Kosten.png) You may recruit units if your king stands on any keep (not cstle!) field and you have the necessary positive gold ammount:
+![Cost symbol](Bildquellen/Symbole/Kosten.png) You may recruit units if your king stands on any keep (not castle!) field and you have the necessary positive gold ammount:
 
 * Subtract the gold ammount and update your gold marker
 * You can choose a fresh unit from the pool
 * Pick a paper-clip in your colour and mark the units full-hitpoints position
-* Place the unit at your chosen castle hex
+* Place the unit at your chosen castle hex which must be connected to to keep.
 
 Freshly recruited units have zero movepoints; you can neither attack or move them before your next turn.
 
