@@ -78,7 +78,8 @@ Freshly recruited units have zero movepoints; you can neither attack or move the
 Units can pass trough friendly units when moving but cannot hold on an already occupied field.
 
 ***Zone of control***  
-Each unit has a *zone of control* around it. If your unit enters the hex field adjacent to an enemy unit, it looses all emaining movepoints for the current turn. This allows units to block off access to areas on the battlefield and even to capture enemy units so they can't flee. Employing *zone of control* can be a significant factor in winning a game.
+Each unit has a *zone of control* around it. If your unit enters the hex field adjacent to an enemy unit, it looses all emaining movepoints for the current turn. This allows units to block off access to areas on the battlefield and even to capture enemy units so they can't flee (put two units on opposite fields and the enemy has no uncontrolled fields left to move on).  
+Employing *zone of control* can be a significant factor in winning a game.
 
 ***Conquering villages***  
 To conquer an empty village you just simply move a unit onto it. Place your marker on it so it's visible that it now belongs to you.  
@@ -99,6 +100,13 @@ At the next round the village will provide gold to your side (at least if it sti
 
 If hitpoints of any unit drops to zero, the unit is immediately removed from the battlefield and put into the units pool. Any attacks/defenses still left are discarded.  
 Once the attack is over, the attacking unit has no movepoints left and is done for this turn. Note that it can still defend itself any time it is attacked like outlined obove.
+
+*Example 1*: A Mage goes to the wood field next to a fighter in a castle and attacks him. He has four ranged attacks and the fighter can try to retaliate one times as he has one ranged attack. The mage begins and the dice shows 3 - a hit (he always ust needs 3 or more)! The fighter looses one hitpoint. Now the fighter rolls the dice: 4! He does not score a hit (mage has 5 defense on wodland) mage stays unscathed. Now again the mage: he rolls 4 and scores a hit again. The fighter now has no attacks left and so the mage can roll his third dice: 2, no hit. The last roll shows 8 and again is a hit.  
+
+*Example 2:* After the fight the mage still has 3 hitpoints, where the fighter only has one hitpoints left. The Fighter chooses to attack the mage with meele, because the mage cant't defend as he has no meele attack. The fighter rolls a 5 and scroes a hit (mage has 5 defence on woodland). The mage can't retaliate now, as already said. The fighter again rolls the dice: 6, hit. The mage now has only one hitpoint left.  
+
+*Example 3:* The situation is very risky now: If the mage chooses to attack, he may die from the fighters ranged attack, which will be a costly loss (mage costs 7 Gold, where the fighter is cheap with only 5). The fighter needs to roll a 5 or more, wich is a 50% chance. However, if the fighter misses, the mage just needs 2 out of his 4 attacks to finish him, where on average he is likely to hit 3 of 4, so this can be assumed with some confidence.  
+The mage chooses to gamble and attacks: the dice shows 2, a miss! The fighter rolls the dice and scroes a 6 - and finishes the poor mage. He is remvoved immediately fom the battlefield and the remining 3 attacks are discarded.
 
 
 ## The units

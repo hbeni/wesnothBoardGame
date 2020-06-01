@@ -79,7 +79,8 @@ Frisch rekrutierte Einheiten haben keine Bewegungspunkte; du kannst weder in die
 Einheiten können beim Ziehen durch eigene Einheiten hindurchgehen, aber nicht auf dem gleichen Feld stehenbleiben.
 
 ***Kontrollzone***  
-Jede Einheit hat eine *Kontrollzone* um ihr besetztes Feld herum: Wenn eine Einheit ein Feld angrenzend zu einem Feind betritt, verliert sie alle verbliebenen Bewegunspunkte. Dies erlaubt Einheiten, Gegenden auf der Karte für gegnerische Einheiten abzusperren und sogar, gegnerische Einheiten einzusperren, um sie an der flicht zu hindern. Die *Kontrollzone* der eigenen Einheiten geschickt einzusetzen kann ein deutlicher Siegfaktor sein.
+Jede Einheit hat eine *Kontrollzone* um ihr besetztes Feld herum: Wenn eine Einheit ein Feld angrenzend zu einem Feind betritt, verliert sie alle verbliebenen Bewegunspunkte. Dies erlaubt Einheiten, Gegenden auf der Karte für gegnerische Einheiten abzusperren und sogar, gegnerische Einheiten einzusperren, um sie an der Flucht zu hindern (platziere jeweils eine Einheit auf der gegenüberliegenden Seite und der Gegner hat keine unbewachten Felder mehr, auf die er ziehen kann).  
+Die *Kontrollzone* der eigenen Einheiten geschickt einzusetzen kann ein deutlicher Siegfaktor sein.
 
 ***Dörfer einnehmen***  
 Um ein Dorf einzunehmen, muss einfach eine Einheit darauf ziehen. Setze einen Marker auf das Dorf, so dass sichtbar ist, dass das Dorf nun dir gehört.
@@ -100,6 +101,13 @@ In deinem nächsten Zug wird dir das Dorf zwei Gold mehr Einkommen bescheren (so
 
 Wenn die Lebenspunkte einer Einheit auf null (oder weniger) fallen, wird sie sofort aus dem Spiel genommen und zurück in den Vorrat gelegt. Sollten Angriffe/Verteidigungen übrig gewesen sein, verfallen diese.
 Sobald der Angriff vorbei ist, hat die angreifende Einheit keine Bewegungspunkte mehr und kann auch nicht nochmal angreifen. Sie kann sich jedoch noch beliebig oft wie eben dargelegt verteidigen, sollte sie angegriffen werden.
+
+*Beispiel 1*: Ein Magier geht auf das Wald-Feld neben einem Kämpfer in einer Burg und greift ihn an. Er hat vier Fernkampfangriffe und der Kämpfe kann einmal versuchen, den Magier zu treffen, da er ebenfalls einen Fernkampfangriff hat. Der Magier fängt an und würfelt eine 3 - Treffer (der Magier braucht stets nur eine 3 oder mehr zu würfeln)! Der Kämpfer verliert einen Lebenspunkt. Jetzt wehrt sich der Kämpfer: er würfelt eine 4! Der Magier steht jedoch auf Wald und der Kämpfer hätte daher eine 5 gebracht um den Magier zu treffen. Er bleibt somit unverletzt. Jezt ist wieder der Magier dran und würfelt eine 4! Wieder ein Treffer! Der Kämpfer hat keine Fernkampfangriffe mehr übrig und kann sich daher nicht mehr wehren. Der Magier würfelt gleich nochmal: 2, kein Treffer. Sein letzter Wurf ist eine 8 und trifft daher.  
+
+*Beispiel 2:* Nach dem Kampf hat der Kämpfer noch zwei Lebenspunkte und entscheidet, den Magier anzugreifen, da er keinen Nahkampfangriff hat und sich somit nicht wehren kann. Er würfelt eine 5 und erziehlt einen Treffer (der Magier hat im Wald 5 Verteidigung). Jetzt kann der Magier wie gesagt nicht zurückschlagen, daher würfelt der Kämpfer gleich nochmal: 6, Treffer! Der Magier verbleibt mit einem Lebenspunkt.  
+
+*Beispiel 3:* Die Situation ist jetzt sehr riskant: Wenn der Magier angeift, geht er das Risiko ein, dass der Gegenangriff des Kriegers trifft, und das reicht aus, den Magier aus dem Spiel zu nehmen, was sehr kostspielig wäre (der Magier kostet 7 Gold, während der Krieger mit 5 recht günstig ist). Der Krieger bräuchte dafür eine 5 oder mehr, d.h. eine 50% Chance. Auf der anderen Seite hat der Magier eine hohe Chance, den Krieger aus dem Spiel zu nehmen, sollte er verfehlen: der Magier braucht nur zwei seiner vier Angriffe treffen und hat je Versuch eine 70% Trefferchance (trifft also im Durchschnitt fast 3 von 4), man kann den Erfolg der Aktion als relativ sicher annehmen.  
+Der Magier entscheidet sich für Angriff und würfelt: eine zwei, verfehlt! Der Krieger verteidigt sich mit einer 6 - Treffer, der unglückliche Magier verliert dadurch seinen letzten Lebenspunkt und wird sofort aus dem Spiel genommen. Seine verbliebenen drei Angriffe verfallen.
 
 
 ## Die Einheiten
