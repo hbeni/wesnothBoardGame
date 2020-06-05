@@ -8,6 +8,8 @@ Recruit your army, conquer villages for income on the hextiled map and let your 
 
 We tried to keep it simple and to the core gameplay, so it will actually be fun without tracking all too much stats. The only thing to track is your gold, your villages and each units hitpoints using simple clips and markers.
 
+German Readme / Deutsch: [README-de_DE.md](README-de_DE.md)
+
 ![Time to battle](Bildquellen/playing.jpg)
 
 
