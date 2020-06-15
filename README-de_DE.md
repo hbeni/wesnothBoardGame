@@ -1,7 +1,7 @@
 Die Schlacht um Wesnoth - Das Brettspiel
 ===================================
 
-![Wesnoth logo](Bildquellen/logo-large.png)  
+![Wesnoth logo](source/logo-large.png)  
 "Die Schlacht um Wesnoth" ist ein quelloffenes, rundenbasiertes Strategiespiel in einer Fantasywelt für den Computer. Dieses Projekt ist der Versuch, Wesnoth als klassisches Brettspiel verfügbar zu machen.
 
 Rekrutiere deine Armee und erobere Dörfer für mehr Einkommen und lasse deine Einheiten auf einer Karte aus hexagonalen Feldern kämpfen! Platziere deine Einheiten auf strategisch günstigem Gelände, das gute Verteidigung bietet.
@@ -10,7 +10,7 @@ Wir haben versucht, das Spiel einfach und nah an Wesnoth's Kernprinzipien zu hal
 
 Eine ausführliche deutsche Spielanleitung findest du in [Anleitung_DE.pdf](Anleitung_DE.pdf).
 
-![Time to battle](Bildquellen/playing.jpg)
+![Time to battle](source/playing.jpg)
 
 
 -----------------------------------------------
